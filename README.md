@@ -1,1 +1,2 @@
 # Friend-Finder
+This app gives the user a quiz that uses the chosen css library for choices. The app is heavy on backend development as it uses routing for its pages while using get and post requests for the quiz results. In it's current state, it gathers the information needed to compare the user's answers to the pre-made friends array's answers but it doesn't compare the two correctly so it just matches itself with the user. It doesn't seem like too much more work so I hope to fix this soon.
